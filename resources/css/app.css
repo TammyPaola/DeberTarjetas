@@ -1,0 +1,33 @@
+form {
+    border: thin solid rgb(247, 220, 111);
+    background-color: #E6B0AA;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    text-align: center;
+    font-size: 2.0rem;
+    margin-bottom: 1rem;
+}
+img {
+    width: 80px;
+    border-radius: 30px;
+    border: thin solid rgb(205, 92, 92)
+    ;
+}
+.github-profile {
+    text-align: center;
+    margin: 3rem;
+
+}
+.info {
+    display: inline-block;
+    margin-left: 12px;
+}
+.name {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
